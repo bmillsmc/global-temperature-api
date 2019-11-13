@@ -1,0 +1,668 @@
+[
+  {
+    "dt": "2011-10-01",
+    "AverageTemperature": 23.605,
+    "AverageTemperatureUncertainty": 0.393,
+    "Country": "Iraq"
+  },
+  {
+    "dt": "2011-11-01",
+    "AverageTemperature": 13.306,
+    "AverageTemperatureUncertainty": 0.294,
+    "Country": "Iraq"
+  },
+  {
+    "dt": "2011-12-01",
+    "AverageTemperature": 9.479,
+    "AverageTemperatureUncertainty": 0.22,
+    "Country": "Iraq"
+  },
+  {
+    "dt": "2012-01-01",
+    "AverageTemperature": 9,
+    "AverageTemperatureUncertainty": 0.412,
+    "Country": "Iraq"
+  },
+  {
+    "dt": "2012-02-01",
+    "AverageTemperature": 10.718,
+    "AverageTemperatureUncertainty": 0.348,
+    "Country": "Iraq"
+  },
+  {
+    "dt": "2012-03-01",
+    "AverageTemperature": 14.23,
+    "AverageTemperatureUncertainty": 0.173,
+    "Country": "Iraq"
+  },
+  {
+    "dt": "2012-04-01",
+    "AverageTemperature": 23.793000000000003,
+    "AverageTemperatureUncertainty": 0.276,
+    "Country": "Iraq"
+  },
+  {
+    "dt": "2012-05-01",
+    "AverageTemperature": 29.74,
+    "AverageTemperatureUncertainty": 0.293,
+    "Country": "Iraq"
+  },
+  {
+    "dt": "2012-06-01",
+    "AverageTemperature": 34.639,
+    "AverageTemperatureUncertainty": 0.212,
+    "Country": "Iraq"
+  },
+  {
+    "dt": "2012-07-01",
+    "AverageTemperature": 36.398,
+    "AverageTemperatureUncertainty": 0.331,
+    "Country": "Iraq"
+  },
+  {
+    "dt": "2012-08-01",
+    "AverageTemperature": 35.66900000000001,
+    "AverageTemperatureUncertainty": 0.565,
+    "Country": "Iraq"
+  },
+  {
+    "dt": "2012-09-01",
+    "AverageTemperature": 31.749,
+    "AverageTemperatureUncertainty": 0.378,
+    "Country": "Iraq"
+  },
+  {
+    "dt": "2012-10-01",
+    "AverageTemperature": 25.55,
+    "AverageTemperatureUncertainty": 0.524,
+    "Country": "Iraq"
+  },
+  {
+    "dt": "2012-11-01",
+    "AverageTemperature": 17.814,
+    "AverageTemperatureUncertainty": 0.221,
+    "Country": "Iraq"
+  },
+  {
+    "dt": "2012-12-01",
+    "AverageTemperature": 11.847000000000001,
+    "AverageTemperatureUncertainty": 0.528,
+    "Country": "Iraq"
+  },
+  {
+    "dt": "2013-01-01",
+    "AverageTemperature": 10.569,
+    "AverageTemperatureUncertainty": 0.782,
+    "Country": "Iraq"
+  },
+  {
+    "dt": "2013-02-01",
+    "AverageTemperature": 13.895,
+    "AverageTemperatureUncertainty": 0.484,
+    "Country": "Iraq"
+  },
+  {
+    "dt": "2013-03-01",
+    "AverageTemperature": 16.881999999999998,
+    "AverageTemperatureUncertainty": 1.054,
+    "Country": "Iraq"
+  },
+  {
+    "dt": "2013-04-01",
+    "AverageTemperature": 21.923,
+    "AverageTemperatureUncertainty": 1.258,
+    "Country": "Iraq"
+  },
+  {
+    "dt": "2013-05-01",
+    "AverageTemperature": 27.696,
+    "AverageTemperatureUncertainty": 0.5529999999999999,
+    "Country": "Iraq"
+  },
+  {
+    "dt": "2013-06-01",
+    "AverageTemperature": 32.819,
+    "AverageTemperatureUncertainty": 0.638,
+    "Country": "Iraq"
+  },
+  {
+    "dt": "2013-07-01",
+    "AverageTemperature": 35.494,
+    "AverageTemperatureUncertainty": 0.841,
+    "Country": "Iraq"
+  },
+  {
+    "dt": "2013-08-01",
+    "AverageTemperature": 34.646,
+    "AverageTemperatureUncertainty": 0.478,
+    "Country": "Iraq"
+  },
+  {
+    "dt": "2013-09-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Iraq"
+  },
+  {
+    "dt": "1743-11-01",
+    "AverageTemperature": 7.729999999999999,
+    "AverageTemperatureUncertainty": 1.854,
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1743-12-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1744-01-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1744-02-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1744-03-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1744-04-01",
+    "AverageTemperature": 8.814,
+    "AverageTemperatureUncertainty": 2.372,
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1744-05-01",
+    "AverageTemperature": 10.09,
+    "AverageTemperatureUncertainty": 1.641,
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1744-06-01",
+    "AverageTemperature": 13.252,
+    "AverageTemperatureUncertainty": 1.765,
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1744-07-01",
+    "AverageTemperature": 14.273,
+    "AverageTemperatureUncertainty": 1.741,
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1744-08-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1744-09-01",
+    "AverageTemperature": 11.812000000000001,
+    "AverageTemperatureUncertainty": 1.765,
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1744-10-01",
+    "AverageTemperature": 8.966000000000003,
+    "AverageTemperatureUncertainty": 1.774,
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1744-11-01",
+    "AverageTemperature": 7.2879999999999985,
+    "AverageTemperatureUncertainty": 1.6769999999999998,
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1744-12-01",
+    "AverageTemperature": 5.199,
+    "AverageTemperatureUncertainty": 1.818,
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1745-01-01",
+    "AverageTemperature": 4.4700000000000015,
+    "AverageTemperatureUncertainty": 1.769,
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1745-02-01",
+    "AverageTemperature": 4.1080000000000005,
+    "AverageTemperatureUncertainty": 1.641,
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1745-03-01",
+    "AverageTemperature": 5,
+    "AverageTemperatureUncertainty": 1.5530000000000002,
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1745-04-01",
+    "AverageTemperature": 7.524000000000001,
+    "AverageTemperatureUncertainty": 1.586,
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1745-05-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1745-06-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1745-07-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1745-08-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1745-09-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1745-10-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1745-11-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1745-12-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1746-01-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1746-02-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1746-03-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1746-04-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1746-05-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1746-06-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1746-07-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1746-08-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1746-09-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1746-10-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1746-11-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1746-12-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1747-01-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1747-02-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1747-03-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1747-04-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1747-05-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1747-06-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1747-07-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1747-08-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1747-09-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1747-10-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1747-11-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1747-12-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1748-01-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1748-02-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1748-03-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1748-04-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1748-05-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1748-06-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1748-07-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1748-08-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1748-09-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1748-10-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1748-11-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1748-12-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1749-01-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1749-02-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1749-03-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1749-04-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1749-05-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1749-06-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1749-07-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1749-08-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1749-09-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1749-10-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1749-11-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1749-12-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1750-01-01",
+    "AverageTemperature": 5.058000000000002,
+    "AverageTemperatureUncertainty": 1.491,
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1750-02-01",
+    "AverageTemperature": 7.407,
+    "AverageTemperatureUncertainty": 2.174,
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1750-03-01",
+    "AverageTemperature": 8.34,
+    "AverageTemperatureUncertainty": 2.498,
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1750-04-01",
+    "AverageTemperature": 8.281,
+    "AverageTemperatureUncertainty": 1.499,
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1750-05-01",
+    "AverageTemperature": 11.097000000000001,
+    "AverageTemperatureUncertainty": 1.646,
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1750-06-01",
+    "AverageTemperature": 13.208,
+    "AverageTemperatureUncertainty": 1.619,
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1750-07-01",
+    "AverageTemperature": 16.464000000000002,
+    "AverageTemperatureUncertainty": 1.596,
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1750-08-01",
+    "AverageTemperature": 14.98,
+    "AverageTemperatureUncertainty": 1.45,
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1750-09-01",
+    "AverageTemperature": 12.915,
+    "AverageTemperatureUncertainty": 1.497,
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1750-10-01",
+    "AverageTemperature": 7.513000000000001,
+    "AverageTemperatureUncertainty": 1.526,
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1750-11-01",
+    "AverageTemperature": "",
+    "AverageTemperatureUncertainty": "",
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1750-12-01",
+    "AverageTemperature": 4.612,
+    "AverageTemperatureUncertainty": 1.71,
+    "Country": "Ireland"
+  },
+  {
+    "dt": "1751-01-01",
+    "AverageTemperature": 5.28,
+    "AverageTemperatureUncertainty": 1.7480000000000002,
+    "Country": "Ireland"
+  }
+]
