@@ -6,7 +6,7 @@ Using this API you can retrieve monthly temperature averages by country name. Th
 
 ## Country Object
 
-!(an example of a country object)[images/jsonexample.png]
+!(an example of a country object)[./images/jsonexample.png]
 
 ## Features
 
