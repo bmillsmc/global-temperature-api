@@ -6,7 +6,7 @@ Using this API you can retrieve monthly temperature averages by country name. Th
 
 ## Country Object
 
-!(an example of a country object)[./images/jsonexample.png]
+![an example of a country object](./images/jsonexample.png)
 
 ## Features
 
@@ -32,7 +32,7 @@ Features planned during development:
 
 ## Use
 
-The API is currently deployed (here)[http://global-temperature-api.herokuapp.com]. The site has the following routes:
+The API is currently deployed [here](http://global-temperature-api.herokuapp.com). The site has the following routes:
 
 Where `path` = http://global-temperature-api.herokuapp.com
 
