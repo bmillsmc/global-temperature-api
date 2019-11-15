@@ -4,3 +4,4 @@ lib/data/GlobalLandTemperaturesByMajorCity.csv
 lib/data/GlobalLandTemperaturesByState.csv
 lib/data/climate-change-data.zip
 lib/data/GlobalTemperatures.csv
+db-password.txt
