@@ -40,10 +40,6 @@ Where `path` = http://global-temperature-api.herokuapp.com
 
 - `path/country/:name`: this path can be used to access any one country by name. This will return the full object including the full `months` array.
 
-## Data Source
-
-The data is retrieved from [Berkeley Earth](http://berkeleyearth.org/about/) an organization that has systematically re-done climate research in order to disprove climate change skeptists' theories on biases in the data. Due to the open nature of their work they release all of their data to the public on their [data](http://berkeleyearth.org/data/) page. This is where all of the data sets used in this API are retrieved from.
-
 ## Contributing
 
 Pull requests are welcome. For any bigger changes please submit an issue.
